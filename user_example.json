@@ -1,0 +1,21 @@
+{
+   "data": [
+      {
+         "protected": false,
+         "description": "",
+         "created_at": "2022-02-22T05:48:33.000Z",
+         "username": "DawnJon26077024",
+         "name": "Dawn Jones",
+         "id": "1495998858387943426",
+         "url": "",
+         "verified": false,
+         "profile_image_url": "https://pbs.twimg.com/profile_images/1495999012130148352/Es7Feofx_normal.jpg",
+         "public_metrics": {
+            "followers_count": 3,
+            "following_count": 0,
+            "tweet_count": 1775,
+            "listed_count": 0
+         }
+      }
+   ]
+}

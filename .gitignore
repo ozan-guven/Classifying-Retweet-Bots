@@ -1,0 +1,5 @@
+env/
+*.key
+*.log
+__pycache__
+config.py
